@@ -21,3 +21,5 @@ However, as the size of the system grows, classical methods can become inefficie
 
 The variational ansatz is a parametric quantum circuit designed to minimize a cost function. It adjusts the parameters of quantum gates to achieve an optimal solution, making it well-suited for tasks like solving linear systems. In this repository, the ansatz is constructed using Classiq, a framework that facilitates the design and synthesis of complex quantum circuits.
 
+Click on the below link
+[Watch the presentation video](https://youtu.be/K5cfCgscCeM)
